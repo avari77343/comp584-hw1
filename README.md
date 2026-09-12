@@ -6,7 +6,7 @@ This repository contains my CSUN HW1 Intro HTML assignment.
 
 After enabling GitHub Pages for this repository, add the published website URL here:
 
-**GitHub Pages:** `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
+**GitHub Pages:** `https://avari77343.github.io/comp584-hw1/`
 
 ## Assignment
 
